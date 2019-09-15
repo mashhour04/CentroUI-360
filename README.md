@@ -8,19 +8,24 @@ https://github.com/hggeorgiev/CentroUI/blob/master/README.md
 Install dependencies
 ```npm install```
 
-start the application server by running 
+start the application server by running
 ```npm start```
 
 ## List of currently working components
 
 ```
-CnContainer from '../components/core/container';
-CnCard from '../components/card/card';
-CnButton from '../components/button/button';
-CnIcon from '../components/button/icon';
-CnCardContent from '../components/card/card-content';
-CnCardFooter from '../components/card/card-footer';
-CnCardHeader from '../components/card/card-header';
-CnRow from '../components/core/row';
+import CnContainer from '../components/core/container';
+import CnCard from '../components/card/card';
+import CnButton from '../components/button/button';
+import CnCardContent from '../components/card/card-content';
+import CnCardFooter from '../components/card/card-footer';
+import CnCardHeader from '../components/card/card-header';
+import CnRow from '../components/core/row';
+import CnNavbar from '../components/navbar/navbar';
+import CnNavItem from '../components/navbar/nav-item';
+import CnIcon from '../components/button/icon';
+import CnList from '../components/list/list';
+import CnListItem from '../components/list/list-item';
+import CnTextInput from '../components/text-input/text-input';
 ```
 
